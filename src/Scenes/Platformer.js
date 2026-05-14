@@ -73,6 +73,15 @@ class Platformer extends Phaser.Scene {
             // TODO: start the coin collect particle effect here
             ////////////////////
 
+
+
+            if (this.pauseParticles) {
+                this.time.delayedCall(500, () => {   // 500 ms after particles trigger, adjust as needed
+                    this.scene.pause();
+                    setTimeout(() => this.scene.resume(), 3000); // 3 seconds to grab your screenshot
+                    this.pauseParticles = false;
+                });
+            }
         });
 
         // set up Phaser-provided cursor key input
@@ -86,7 +95,13 @@ class Platformer extends Phaser.Scene {
             this.physics.world.debugGraphic.clear()
         }, this);
 
-        // TODO: Add movement vfx here
+        // toggle flag used for pause on striking a particle
+        this.pauseParticles = false;
+        this.input.keyboard.on('keydown-P', () => {
+            this.pauseParticles = !this.pauseParticles;
+        });
+
+        // TODO: Add creation of movement vfx here
         
 
         // Simple camera to follow player
