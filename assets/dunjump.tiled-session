@@ -1,0 +1,203 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/aaroh/FancySwitch/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.23,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 123.57723577235771,
+                "y": 338.2113821138211
+            }
+        },
+        "C:/Users/aaroh/FancySwitch/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/aaroh/Pathfinder/assets/tiny-town-tileset.tmx": {
+            "scale": 1.5140624999999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.6697626418989,
+                "y": 200.12383900928796
+            }
+        },
+        "C:/Users/aaroh/Pathfinder/assets/tiny-town-tileset.tmx#kenney-tiny-town": {
+            "scaleInDock": 1
+        },
+        "dunjump1.tmj": {
+            "scale": 0.5129086538461538,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1040.1462248676012,
+                "y": 239.80878286544498
+            }
+        },
+        "dunjump1.tmj#monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump1.tmj#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "dunjump1.tmj#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1888.6666666666665,
+                "y": 460
+            }
+        },
+        "dunjump1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "dunjump1.tmx#monochrome": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dunjump1.tmx#spritesheet_1": {
+            "scaleInDock": 0.5
+        },
+        "dunjump1.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "dunjump1.tmx#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump2 - Copy.tmx": {
+            "scale": 0.5129086538461538,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1040.1462248676012,
+                "y": 239.80878286544498
+            }
+        },
+        "dunjump2 - Copy.tmx#monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump2 - Copy.tmx#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "dunjump2 - Copy.tmx#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump2.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 701.5,
+                "y": 256
+            }
+        },
+        "dunjump2.tmx#monochrome": {
+            "scaleInDock": 1.5
+        },
+        "dunjump2.tmx#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "dunjump2.tmx#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 429.5,
+                "y": 240
+            }
+        },
+        "dunjump3.tmj#monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmj#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmj#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1685.75,
+                "y": 240
+            }
+        },
+        "dunjump3.tmx#monochrome": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmx#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "dunjump3.tmx#trans_monochrome": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 302.25,
+                "y": 265.5
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.47,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 1007.4468085106381,
+                "y": 225.531914893617
+            }
+        },
+        "untitled.tmx#spritesheet_1": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.exportedFilePath": "C:/Users/aaroh/ParticlePractice/assets",
+    "last.externalTilesetPath": "C:/Users/aaroh/ParticlePractice/assets",
+    "last.imagePath": "C:/Users/aaroh/ParticlePractice/assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+    ],
+    "project": "dunjump.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "dunjump2.tmx",
+        "dunjump3.tmj",
+        "dunjump2 - Copy.tmx",
+        "C:/Users/aaroh/FancySwitch/assets/platformer-level-1.tmx",
+        "platformer-level-1.tmx",
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

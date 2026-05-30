@@ -31,11 +31,14 @@ let config = {
     },
     width: 1440,
     height: 900,
-    scene: [Load, Platformer]
+    scene: [Load, Platformer, MainMenu, EndScene, VictoryScene]
 }
+
+let currentLevel = 0;
 
 var cursors;
 const SCALE = 2.0;
+var level = 1;
 var my = {sprite: {}, text: {}, vfx: {}};
 
 const game = new Phaser.Game(config);
